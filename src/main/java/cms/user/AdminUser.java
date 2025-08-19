@@ -13,8 +13,9 @@ public class AdminUser {
 		this.password = password;
 	}
 
+	
 	public int getId() {
-		return id;
+		return id;//bla
 	}
 
 	public String getNome() {
