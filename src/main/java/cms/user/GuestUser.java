@@ -15,6 +15,8 @@ public class GuestUser {
 
 	public int getId() {
 		return id;
+		
+		//asdjasdasdk
 	}
 
 	public String getNome() {
